@@ -1,1 +1,1 @@
-# js-juju-pingpong
+# js-juju
